@@ -1,0 +1,18 @@
+MVC Architecture:
+
+      /--------------------\
+      | Web App | REST API | <--- Presentation Layer
+      |--------------------|
+      |  Service Library   | <--- Service Layer
+      |--------------------|
+      |  Entity Framework  | <--- Data Access
+      \--------------------/
+
+
+----------------------------------------------------
+
+JPA Annotations: ManyToOne, OneToOne, ...
+
+
+
+----------------------------------------------------
